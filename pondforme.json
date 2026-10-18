@@ -1,0 +1,9 @@
+{
+  "name": "pondforme",
+  "samples": {
+    "akitaneru": "samples/akitaneru",
+    "bhutan": "samples/bhutan",
+    "dogg": "samples/dogg",
+    "oldschool": "samples/oldschool"
+  }
+}
