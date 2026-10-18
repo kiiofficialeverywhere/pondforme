@@ -2,8 +2,8 @@
   "name": "pondforme",
   "samples": {
     "akitaneru": "samples/akitaneru.mp3",
-    "bhutan": "samples/bp.mp3",
-    "dogg": "samples/d.ogg",
-    "oldschool": "samples/120bpm Old School Drum Loop_[cut_2sec].mp3"
+    "bhutan": "samples/bhutan.mp3",
+    "dogg": "samples/dogg.ogg",
+    "oldschool": "samples/oldschool.mp3"
   }
 }
